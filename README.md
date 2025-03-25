@@ -1,21 +1,58 @@
 <h1 align="center">Hi 👋, I'm Đạt</h1>
-<h3 align="center">A frontend developer from VietNam</h3>
+<h3 align="center">A Passionate Frontend Developer from Vietnam 🇻🇳</h3>
 
-- 🔭 I’m currently working on [NiceWork](https://github.com/Dat-upoverloading/NiceWork.git)
-
-- 🌱 I’m currently learning **Reactjs**
-
-- 👯 I’m looking to collaborate on [Website Read Novel](https://github.com/Dat-upoverloading/WebReadNovel.git)
-
-- 📫 How to reach me **trandinhdat003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+|+ReactJS+%7C+NextJS;Building+interactive+and+responsive+web+apps;Always+learning+new+things!">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dat-upoverloading&show_icons=true&locale=en&layout=compact" alt="dat-upoverloading" /></p>
+### 🚀 About Me:
+- 🔭 Currently working on **[NiceWork](https://github.com/Dat-upoverloading/NiceWork.git)**
+- 🌱 Exploring **React.js, Next.js & Laravel**
+- 👯 Open to collaboration on **[Website Read Novel](https://github.com/Dat-upoverloading/WebReadNovel.git)**
+- 📫 Reach me at **[trandinhdat003@gmail.com](mailto:trandinhdat003@gmail.com)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dat-upoverloading&show_icons=true&locale=en" alt="dat-upoverloading" /></p>
+---
+
+### 🌐 Connect With Me:
+<p align="left">
+  <a href="mailto:trandinhdat003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Dat-upoverloading"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dat-upoverloading&show_icons=true&theme=radical&hide_border=true" alt="Dat-upoverloading" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dat-upoverloading&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Dat-upoverloading" />
+</p>
+
+---
+
+### 🔥 Streak Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dat-upoverloading&theme=radical&hide_border=true" />
+</p>
+
+---
+
+⭐️ **Keep Learning & Keep Growing!**

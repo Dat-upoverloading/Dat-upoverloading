@@ -48,11 +48,4 @@
 
 ---
 
-### 🔥 Streak Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dat-upoverloading&theme=radical&hide_border=true" />
-</p>
-
----
-
 ⭐️ **Keep Learning & Keep Growing!**
